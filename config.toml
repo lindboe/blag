@@ -1,9 +1,9 @@
-baseURL = "http://lizzi.codes/"
+baseURL = "https://lizzi.codes/"
 languageCode = "en-us"
 title = "lizzi.codes"
 theme = "strange-case"
 [[menu.main]]
     name = "about lizzi"
-    url = "http://lizzi.codes/about-lizzi"
+    url = "https://lizzi.codes/about-lizzi"
 [params]
     colorScheme = "scheme-mine"
